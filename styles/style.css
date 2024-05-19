@@ -308,7 +308,9 @@ footer p {
     text-align: center;
   }
   .fact-card-container {
-    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
   }
 }
 .hide {
