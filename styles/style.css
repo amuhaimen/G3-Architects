@@ -304,6 +304,12 @@ footer p {
     /* text-align: center; */
     padding: 0 100px;
   }
+  .fact-container {
+    text-align: center;
+  }
+  .fact-card-container {
+    text-align: center;
+  }
 }
 .hide {
   display: none;
